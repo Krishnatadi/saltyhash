@@ -1,0 +1,41 @@
+{
+  "name": "saltyhash",
+  "version": "1.0.0",
+  "description": "SaltyHash is a robust password hashing library that combines salting and hashing to enhance security. It validates password strength to ensure secure authentication practices, making it an ideal choice for developers looking to protect user credentials effectively.",
+  "main": "saltyhash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnatadi/saltyhash.git"
+  },
+  "keywords": [
+    "password",
+    "hashing",
+    "salting",
+    "encryption",
+    "security",
+    "authentication",
+    "cryptography",
+    "strong-password",
+    "npm-package",
+    "user-credentials",
+    "secure-password",
+    "password-validation",
+    "data-protection",
+    "hash",
+    "security-library",
+    "web-security",
+    "nodejs",
+    "javascript",
+    "hash-function",
+    "password-storage"
+  ],
+  "author": "krishna tadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnatadi/saltyhash/issues"
+  },
+  "homepage": "https://github.com/krishnatadi/saltyhash#readme"
+}
