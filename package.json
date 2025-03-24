@@ -1,8 +1,8 @@
 {
   "name": "saltyhash",
-  "version": "1.0.0",
-  "description": "SaltyHash is a robust password hashing library that combines salting and hashing to enhance security. It validates password strength to ensure secure authentication practices, making it an ideal choice for developers looking to protect user credentials effectively.",
-  "main": "saltyhash.js",
+  "version": "1.0.1",
+  "description": "SaltyHash is a robust, customizable password hashing library that supports various cryptographic algorithms. It provides both synchronous and asynchronous hashing methods, making it flexible for different applications.",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,38 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/krishnatadi/saltyhash.git"
   },
-  "keywords": [
-    "password",
-    "hashing",
-    "salting",
-    "encryption",
-    "security",
-    "authentication",
-    "cryptography",
-    "strong-password",
-    "password hashing",
-    "secure authentication",
-    "bcrypt alternative",
-    "password security",
-    "user authentication",
-    "strong password",
-    "npm password library",
-    "password management",
-    "cryptography library",
-    "asynchronous password hashing",
-    "password validation",
-    "data protection",
-    "hashing library",
-    "web security",
-    "Node.js security",
-    "JavaScript encryption",
-    "salting and hashing",
-    "hash user credentials securely",
-    "secure password storage",
-    "password strength checker"
-  ],
-  "author": "krishna tadi",
-  "license": "ISC",
+  "keywords": ["saltyhash", "salty hash", "password", "hashing", "salting", "security", "encryption", "authentication", "cryptography", "ktcrypt", "hash library", "web security"]
+  ,
+  "author": {
+    "name": "Krishna Tadi",
+    "url": "https://krishnatadi.github.io/portfolio"
+  },
+  "license": "MIT",
+  "types": "./index.d.ts",
   "bugs": {
     "url": "https://github.com/krishnatadi/saltyhash/issues"
   },
